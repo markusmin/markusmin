@@ -1,6 +1,6 @@
 ***
 
-I'm a Ph.D. Candidate at the [School of Aquatic and Fishery Sciences](https://fish.uw.edu) at the University of Washington, advised by [Dr. Mark Scheuerell](https://depts.washington.edu/appliedecology/).
+I'm a David H. Smith Postdoctoral Conservation Fellow at Scripps Institution of Oceanography.
 
 My research focuses on applying various quantitative and statistical methods to answer questions about the population dynamics, movement, and ecology of marine and anadromous fishes.
 
